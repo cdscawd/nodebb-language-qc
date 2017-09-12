@@ -1,8 +1,8 @@
 {
     "title": "最新",
-    "day": "日",
-    "week": "周",
-    "month": "月",
+    "day": "今日热帖",
+    "week": "本周热帖",
+    "month": "本月热帖",
     "year": "年",
     "alltime": "总计",
     "no_recent_topics": "暂无主题。",
